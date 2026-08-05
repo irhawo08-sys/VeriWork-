@@ -58,6 +58,15 @@ export default function AboutPage() {
           />
         </div>
       </section>
+      <SectionHeading
+            eyebrow="Our method"
+            title="Evidence plus worker voice, not self-reporting alone"
+            description="Every score combines a company's own submitted evidence with anonymous, independently collected feedback from workers on that platform, then goes through human review before publication."
+          />
+        </div>
+      </section>
     </>
   );
-}
+    }
+    
+  )
