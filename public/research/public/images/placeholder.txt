@@ -1,5 +1,0 @@
-public/
-  research/
-    (your PDF)
-  images/
-    (your 4 photos)
